@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クリスタライン",
+  "base_artist": "vα-liv",
+  "createdAt": "2026-03-03T01:37:58.912392Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスタライン",
+      "artist": "vα-liv",
+      "has_synced": false,
+      "path": "select/pl_01_クリスタライン_vα-liv.txt"
+    }
+  ]
+}
